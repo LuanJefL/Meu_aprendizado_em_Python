@@ -1,0 +1,1 @@
+-32 * (self.Quantidade_de_elementos / 2)
